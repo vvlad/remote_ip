@@ -1,0 +1,2 @@
+class RemoteIpAddressesController < ApplicationController
+end
